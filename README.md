@@ -61,7 +61,8 @@ It helps to be hands-on with learning Git:
 
 Git and GitHub are a great tools for social science—you can keep your
 work organized, share it with collaborators and create public facing
-websites for free with GitHub pages. A project to develop your Git
-skills with is to fork and create a personal website using
-[Jekyll](https://github.com/jekyll/jekyll) and a repository like
-[Gitfolio](https://github.com/imfunniee/gitfolio).
+websites for free with GitHub pages. A good project for developing your
+Git skills is to fork a repository like [Beautiful
+Jekyll](https://github.com/daattali/beautiful-jekyll) and create a
+personal website (hosted on GitHub) using the
+[Jekyll](https://github.com/jekyll/jekyll) framework.
